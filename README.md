@@ -23,4 +23,11 @@ To leverage my hands-on experience and skills in cybersecurity, acquired through
 
 ## Steps
 
+![image](https://github.com/NotArtwork/AWSGoPhish/assets/105832230/c7d85d29-e8fd-4980-beee-964b2abe6813)
+
+Navigate to Landing Page and Create a Phishing Site to collect data.
+![image](https://github.com/NotArtwork/AWSGoPhish/assets/105832230/69035a1e-336a-44fc-8331-a6d96ec0c333)
+
+
+
 Steps and Pictures coming soon..
