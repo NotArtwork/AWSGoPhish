@@ -42,4 +42,4 @@ Lastly, you want to make and send out your phishing campaign.
 
 This is also where you'll see the progress of your campaign and collect the user data/results of your test.
 
-Steps and Pictures coming soon..
+Result picture coming soon
